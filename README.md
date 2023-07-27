@@ -40,14 +40,18 @@ Passionate full stack developer with a strong foundation in Applied Mathematics 
 <br />
 
 ### My GitHub Stats
+---
 
-<a href="http://www.github.com/Jiamin-Zou"><img src="https://github-readme-stats.vercel.app/api?username=Jiamin-Zou&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="Jiamin-Zou's GitHub stats" /></a>
+<a href="http://www.github.com/Jiamin-Zou"><img src="https://github-readme-stats.vercel.app/api?username=Jiamin-Zou&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jiamin-Zou's GitHub stats" /></a>
+
+<a href="http://www.github.com/Jiamin-Zou"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiamin-Zou&stroke=14b8a6&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <br />
 
-### Projects
+### My Projects
 ---
-<div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/NextBnB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=NextBnB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/NextBnB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=NextBnB&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
 [Live Site](https://nextbnb.onrender.com/)
@@ -55,7 +59,7 @@ Passionate full stack developer with a strong foundation in Applied Mathematics 
 ![NextBnB](./images/nextbnb-screenshot.png)
 
 ---
-<div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/web-buster" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=web-buster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/web-buster" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=web-buster&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
 [Live Site](https://my-app-academy-heroes.onrender.com/)
@@ -63,7 +67,7 @@ Passionate full stack developer with a strong foundation in Applied Mathematics 
 ![Web Buster](./images/web-buster-screenshot.png)
 
 ---
-<div width="100%" align="center"><a href="https://github.com/kcho760/My-App-Academy-Heroes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kcho760&repo=My-App-Academy-Heroes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/kcho760/My-App-Academy-Heroes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kcho760&repo=My-App-Academy-Heroes&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
 [Live Site](https://jiamin-zou.github.io/web-buster/)
