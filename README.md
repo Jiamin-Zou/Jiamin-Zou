@@ -50,7 +50,6 @@ Passionate full stack developer with a strong foundation in Applied Mathematics 
 
 ### My Projects
 ---
-
 <div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/NextBnB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=NextBnB&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
@@ -59,17 +58,17 @@ Passionate full stack developer with a strong foundation in Applied Mathematics 
 ![NextBnB](./images/nextbnb-screenshot.png)
 
 ---
-<div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/web-buster" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=web-buster&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
-
-[Live Site](https://my-app-academy-heroes.onrender.com/)
-
-![Web Buster](./images/web-buster-screenshot.png)
-
----
 <div width="100%" align="center"><a href="https://github.com/kcho760/My-App-Academy-Heroes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kcho760&repo=My-App-Academy-Heroes&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
 [Live Site](https://jiamin-zou.github.io/web-buster/)
 
 ![My App Academy Heroes](./images/my-app-academy-heroes-screenshot.png)
+
+---
+<div width="100%" align="center"><a href="https://github.com/Jiamin-Zou/web-buster" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiamin-Zou&repo=web-buster&title_color=84cc16&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
+
+[Live Site](https://my-app-academy-heroes.onrender.com/)
+
+![Web Buster](./images/web-buster-screenshot.png)
