@@ -5,11 +5,12 @@ Passionate full stack developer with a strong foundation in Applied Mathematics 
 
 * 🌍  I'm based in New York City
 * 🤝  I'm open to collaborating on any interesting projects
+* 💻 Check out my [portfolio site](https://jiamin-zou.github.io/)
 * 📫 How to reach me ...
-    * ✉️  You can contact me at [jiaminz622@gmail.com](mailto:jiaminz622@gmail.com)
     * <a href="https://www.github.com/Jiamin-Zou" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="18" height="18" /></a> [GitHub](https://www.github.com/Jiamin-Zou)
     * <a href="https://www.linkedin.com/in/jiaminzou95/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> [LinkedIn](https://www.linkedin.com/in/jiaminzou95/)
     * <a href="https://wellfound.com/u/jiamin-zou-1" target="_blank" rel="noreferrer">✌️</a> [Wellfound](https://wellfound.com/u/jiamin-zou-1)
+    * ✉️  You can also email me at [jiaminz622@gmail.com](mailto:jiaminz622@gmail.com)
       
 <br />
 
